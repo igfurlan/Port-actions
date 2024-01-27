@@ -1,0 +1,13 @@
+- identifier: IDP_port
+  title: IDP Port
+  team: []
+  icon: DefaultBlueprint
+  blueprint: service
+  properties:
+    readme: string
+    url: https://example.com
+    language: string
+    slack: https://furlan-tech.slack.com
+    tier: Mission Critical
+  relations: {}
+
