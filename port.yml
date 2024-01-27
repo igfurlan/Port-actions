@@ -4,9 +4,9 @@
   icon: DefaultBlueprint
   blueprint: service
   properties:
-    readme: string
-    url: https://example.com
-    language: string
+    readme: file://README.md
+    url: https://github.com/igfurlan/Port-actions
+    language: Yaml
     slack: https://furlan-tech.slack.com
     tier: Mission Critical
   relations: {}
